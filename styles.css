@@ -12,6 +12,8 @@ h1 {
     padding: 20px;
     margin: 0;
     text-align: center;
+    font-style: italic;
+    font-size: 60px;
 }
 
 .home-list {
