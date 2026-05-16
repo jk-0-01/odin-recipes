@@ -8,16 +8,15 @@ body {
 }
 
 a {
-    color: black;
+    color: beige;
     text-decoration: none;
 }
 
 .back-to-home {
     font-size: 17px;
-    color: rgb(253, 255, 236);
     display: block;
     text-align: left;
-    background-color: rgb(253, 255, 236);
+    background-color: black;
 }
 
 h1 {
