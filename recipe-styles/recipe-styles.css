@@ -43,12 +43,12 @@ img {
 }
 
 .first-section-container {
-    background-color: rgb(199, 216, 185);
+    background-color: rgb(149, 194, 112);
 }
 
 .first-section .description {
     padding: 40px;
-    margin-top:20px;
+    background-color: rgb(253, 255, 236);
 }
 
 .second-section-container {
